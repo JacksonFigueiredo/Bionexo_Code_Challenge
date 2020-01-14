@@ -11,4 +11,4 @@ To install service : Open Command Prompt Elevated, Type ServiceName.exe install
 
 To unistall service : Open Command Prompt Elevated, Type ServiceName.exe unistall
 
-Basic Functioning : First Service will collect computer data and send to and database, and later, pick this data from database and foward to an api, api will save in a intermeadiate database.
+Basic Functioning : First Service will collect computer data and send to and database, and later, pick this data from database and foward to an api, api will save in a intermediate database.
